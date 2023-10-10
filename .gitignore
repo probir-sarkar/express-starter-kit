@@ -1,0 +1,9 @@
+node_modules/
+
+# ignore .env files as they are usually used to store sensitive information
+.env
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
